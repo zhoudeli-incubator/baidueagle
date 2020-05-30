@@ -1,4 +1,4 @@
- **Spring Boot 中集成百度鹰眼轨迹的接口调用**
+ **Spring Boot 中 用RestTemplate 完成百度鹰眼轨迹的接口调用(Web 端)**
  
 - 直接整个包扔进去可用
 
@@ -14,3 +14,5 @@ baidu.eagle.rack-add-point-path=/track/addpoint
 baidu.eagle.track-get-point-list-path=/track/gettrack
 baidu.eagle.entity-desc=小和师傅
 ~~~
+
+`只提供了几个常用的service调用`
